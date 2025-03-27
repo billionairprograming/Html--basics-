@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+#container {
+  text-align: center;
+  background-color: lightblue;
+}
+
+#text {
+  font-weight: bold;
+  color: red;
+}
+
+.test {
+  color: blueviolet;
+  text-align: center;
+}
+
+h1,
+h2,
+h3 {
+  font-weight: bold;
+}
